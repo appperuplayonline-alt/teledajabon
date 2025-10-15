@@ -1,0 +1,16 @@
+{
+  "name": "Tele Dajabón",
+  "short_name": "Tele Dajabón",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0D999E",
+  "theme_color": "#0D999E",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/wx15hQ61/Picsart-25-10-15-00-03-37-882.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
